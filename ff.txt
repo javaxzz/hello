@@ -1,2 +1,6 @@
 this is my first commit
-$ git config -- user.email dog@qq.com
+$ git config -- usdf
+
+
+
+r.email dog@qq.com
